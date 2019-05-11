@@ -10,6 +10,7 @@ Here's what I'm working on:
 - Discussion Facilitation tips
 - Vision planning
 - Team quarterly goal planning
+- Performance reviews questions to think about and doing write ups
 
 
 Check back periodically to see what I've added.
