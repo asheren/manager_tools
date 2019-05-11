@@ -11,6 +11,7 @@ Here's what I'm working on:
 - Vision planning
 - Team quarterly goal planning
 - Performance reviews questions to think about and doing write ups
+- Offsites
 
 
 Check back periodically to see what I've added.
