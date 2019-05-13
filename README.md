@@ -12,6 +12,7 @@ Here's what I'm working on:
 - Team quarterly goal planning
 - Performance reviews questions to think about and doing write ups
 - Offsites
+- Transitioning people back after parental leave
 
 
 Check back periodically to see what I've added.
