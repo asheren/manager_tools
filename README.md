@@ -5,6 +5,12 @@ Here's what I'm working on:
 - 1:1 template
 - 1:1 tips
 - Goal setting tips and worksheet
+  - annual goals
+  - quarterly goals
+- Feedback
+  - annual
+  - quarterly
+  - weekly
 - Manager ReadMe example
 - Turn any learning session in to something interactive
 - Discussion Facilitation tips
