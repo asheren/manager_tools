@@ -24,6 +24,10 @@ Here's what I'm working on:
   - chat
   - whiteboarding
   - retros/meeting notes
+- running regular meetings
+  - pointers
+  - different kinds of meetings
+  - sample agendas
 
 
 Check back periodically to see what I've added.
