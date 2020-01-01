@@ -7,6 +7,7 @@ Here's what I'm working on:
 - Goal setting tips and worksheet
 - Manager ReadMe example
 - Turn any learning session in to something interactive
+  - with a special section on doing it remotely
 - Discussion Facilitation tips
 - Vision planning
 - Team quarterly goal planning
