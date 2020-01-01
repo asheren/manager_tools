@@ -19,6 +19,11 @@ Here's what I'm working on:
 - Performance reviews questions to think about and doing write ups
 - Offsites
 - Transitioning people back after parental leave
+- remote tools
+  - video conferencing
+  - chat
+  - whiteboarding
+  - retros/meeting notes
 
 
 Check back periodically to see what I've added.
