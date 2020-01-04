@@ -1,6 +1,9 @@
 # Logistics 
 
+Logistics may seem like dull, boring details but the atmosphere you set up for an offsite can have a huge impact on the general flow and vibe of your time together. For example, it is difficult to be in one room for multiple days. Some questions to ask yourself are... does the room have windows? Are there different places to have discussions and breakouts if you want to do larger group discussions vs. paired discussions? Are you eating in the room as well? Can everyone easily see the whiteboard space or space you'll be working from? Can the room accommodate any special needs your group has?
+
 - location
+- housing... locks, awareness of team makeup, etc.
 - bonding
 - pre-work
   - survey for allergies, likes, dislikes, etc.
