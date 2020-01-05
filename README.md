@@ -3,6 +3,7 @@ Are you a new manager? An experienced one looking for some new tips, tricks, or 
 
 Here's what I'm working on:
 - 1:1 template
+- First 1:1
 - 1:1 tips
 - Goal setting tips and worksheet
   - annual goals
