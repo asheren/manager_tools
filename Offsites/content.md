@@ -47,9 +47,13 @@ Facilitation is an art and a skill. It often does not come naturally, but that's
 - Ask open-ended questions. A closed question is one that can be answered with a yes or a no and often if you ask a closed question, you'll get a closed answer. Work on rephrasing these. For example, instead of asking "Did you have a good day?", you could ask "What was one thing that made your day good or not so good today?"
 
 ### Prep work
+Prep work is 100% optional! It depends on how often your team gets together and what the goals are for your offsite, but prep work can play an important role in ensuring your offsite goals are accomplished. Prep work can be as minimal or intense as you think your team would like. Prep work could be voting in advance on specific ideas or topics in order to narrow down what will be discussed at sessions. Prep work may include a bit of brainstorming in advance or coming prepared to discuss a topic. Prep work could also include reading materials in advance, although I highly recommend giving a brief summary of the reading in-person just in case everyone didn't have a chance to complete the reading.
+
+As the offsite organizer, you have some prep work too. Your responsibility is to clearly outline any prep work or expectations for individuals attending the offsite, as well as circulating the agenda in advance so folks can review it if they choose to.
+
+### Agenda Flow
 
 
-- prep work - group work of reading over things, what should people show up having throught about; facilitator prep work of pre-voting, providing an agenda in advance, etc.
 - flow for the time together
 - bonding
   - activity
