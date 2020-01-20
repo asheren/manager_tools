@@ -8,6 +8,12 @@ Yes, all of the other stuff is important but the actual content of an offsite is
 **Session Leaders**
 **Facilitation Formats**
 **Facilitation 101**
+**Agenda Flow**
+**Bonding**
+**Unstructured Time**
+**Team Contract**
+**Sample Agendas**
+**The Hack Time Special**
 
 
 
@@ -52,9 +58,15 @@ Prep work is 100% optional! It depends on how often your team gets together and 
 As the offsite organizer, you have some prep work too. Your responsibility is to clearly outline any prep work or expectations for individuals attending the offsite, as well as circulating the agenda in advance so folks can review it if they choose to.
 
 ### Agenda Flow
+Picturing your agenda from start to end is critical. How will people move? What do people need? When will they need breaks? How will they stay engaged? WHat special needs, if any, do you have on your team that you need to accommodate (more on this in the logistics section)?
 
+Your agenda should have a healthy mix of deep dives, open discussion, quiet time, reflection, appreciation, small group work, and larger group work. It is important to try to get everyone in _the zone_ as much as possible but people are _people_. They need breaks, they need thoughtful engagement, and their brains, at some point, turn to mush and it's important to not burn them out or try to push them past that point. Trying to force people to make decisions or have critical conversations when they just want the day to be over or just can't engage any further is only going to lead to decisions or conversations that need to be revisited and revised in the future.
 
-- flow for the time together
+Depending on the size of  your offsite, your flow could be more or less formalized. For example, if an entire department is getting together or multiple teams, it may be helpful to focus days on different groups of people. The first day could be company and company priorities, the second day department, the third day team, and the final day personal/professional development and skills building. If the gathering is a team one, you can group the days by themes like coming together, solving issues, and moving forward as a three-day offsite.
+
+### Bonding 
+One of the most important aspects of an offsite is bonding!! Especially if you work at a remote or distributed company, periodically getting together is critical.
+
 - bonding
   - activity
   - airbnb experiences
@@ -62,6 +74,7 @@ As the offsite organizer, you have some prep work too. Your responsibility is to
 - creating open, unstructured time and space
 - LINK TO SAMPLE OFFSITE AGENDAS. Ask people to submit PRs with links to their agendas.
 - team contract to kick things off
+  - an important aspect of an offsite is to set the stage 
   - computers closed
   - rotating note taker
 
