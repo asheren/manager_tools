@@ -65,12 +65,12 @@ Your agenda should have a healthy mix of deep dives, open discussion, quiet time
 Depending on the size of  your offsite, your flow could be more or less formalized. For example, if an entire department is getting together or multiple teams, it may be helpful to focus days on different groups of people. The first day could be company and company priorities, the second day department, the third day team, and the final day personal/professional development and skills building. If the gathering is a team one, you can group the days by themes like coming together, solving issues, and moving forward as a three-day offsite.
 
 ### Bonding 
-One of the most important aspects of an offsite is bonding!! Especially if you work at a remote or distributed company, periodically getting together is critical.
+One of the most important aspects of an offsite is bonding!! Especially if you work at a remote or distributed company, periodically getting together is critical. Bonding can also help the rest of your agenda. You can do a bonding activity at the beginning to kick things off and create a closer experience for the rest of the offsite. You can schedule it for the middle, especially if your activity helps people deeply get to know one another or provides new perspectives. Finally, you can do it at the end to celebrate what the team has accomplished and use it as an opportunity to bring the offsite to a close.
 
-- bonding
-  - activity
-  - airbnb experiences
-  - get tips from a local
+There are a wide variety of kinds of bonding. What you end up doing will depend on your group. Think about the group dynamic, how long folks have known each other, what sorts of things they enjoy and don't enjoy, and, if people are traveling, if they would need any specific clothes or attire and whether or not that may be difficult to pack. Some options include volunteer, sporting events, a cooking class, some interesting or unique active activity, or a problem the team solves together. Bonding activities or outings do not need to be expensive or extravagant. It's about tapping in to something that will bring your team together.
+
+How do you find these options for experiences? I've had luck using a few targeted approaches. First, finding a local to get tips from. You can ask the hotel concierge or see if you know someone in the area. Second, searching for "interesting things to do in CITY" which often times returns a list, some of which you can dig in to as options. Third, use various experience services especially peer to peer platforms like AirBnB and others to search for unique and cost effective options. Whatever you choose, make sure to do your due diligence and let your team know what to expect so they are prepared. Bonding experiences can be fun for some, but extremely anxiety-inducing for others.
+
 - creating open, unstructured time and space
 - LINK TO SAMPLE OFFSITE AGENDAS. Ask people to submit PRs with links to their agendas.
 - team contract to kick things off
