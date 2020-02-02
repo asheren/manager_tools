@@ -71,14 +71,22 @@ There are a wide variety of kinds of bonding. What you end up doing will depend 
 
 How do you find these options for experiences? I've had luck using a few targeted approaches. First, finding a local to get tips from. You can ask the hotel concierge or see if you know someone in the area. Second, searching for "interesting things to do in CITY" which often times returns a list, some of which you can dig in to as options. Third, use various experience services especially peer to peer platforms like AirBnB and others to search for unique and cost effective options. Whatever you choose, make sure to do your due diligence and let your team know what to expect so they are prepared. Bonding experiences can be fun for some, but extremely anxiety-inducing for others.
 
-- creating open, unstructured time and space
-- LINK TO SAMPLE OFFSITE AGENDAS. Ask people to submit PRs with links to their agendas.
-- team contract to kick things off
-  - an important aspect of an offsite is to set the stage 
-  - computers closed
-  - rotating note taker
+### Unstructured Time
+Equally important as what is planned is what isn't planned. Especially in distributed teams, simply having the time together as a team is an outcome all on it's own. When people interact with one another as people and get to know their colleagues beyond their slack handle, it creates more effective work environments and better communication that persists for months. Unstructured time can also be scary for a lot of people. It is easy for someone to feel like unstructured time is just time for them to sit in a foreign city alone. For some introverts who need the time to recharge, this is great! For others, it makes them feel unsure and lonely. 
 
-- the hack time special
-  - 1 day "createathons"
-  - full hackweeks
-  - more deliverables, less structures time and sessions
+There are many ways to think about unstructured time. First, providing breaks. You can (and should) provide periodic breaks during the day. In addition, it is often nice to provide a longer break at the end of the day before any evening plans. This gives everyone a chance to freshen up, rest, and recharge. Second is enabling connections. For larger groups, this can be done through table topics so that people can sit with others who have similar interests. For groups of any size, a section of a whiteboard, piece of paper, or online doc can be designated as a place where people can write about things they'd like to talk about and others can reach out to that person or put their names down as well, making an introduction or connection much easier to make. Finally, you can leave unstructured time and space with the goal of making it structured. Similar to what an unconference might look like, there are often topics, ideas, or discussions that come up at an offsite or just before. Leaving open time and space allows the group to vote on or suggest what that time should look like to ensure that their needs are being met and that they have ownership over a part of the agenda.
+
+### Sample Agendas  
+We've talked a lot about different components of agendas or what offsite agendas could look like. Check out some [sample offsite agendas](/agendas). And if you have an offsite agenda you'd like to share, PRs are welcome!
+
+### Establishing a team contract
+One of the ways I prefer to kick off offsites is by coming up with a team contract. A team contract helps set the stage for what the team should expect from one another. It lets the people in the room decide what the rules and expectations are for the offsite. By coming up with it as a group, you're able to create a set of expectations that everyone is bought in to and that you can refer back to if things diviate from a positive, productive environment. Oftentimes there are suggestions about respect, timeliness, participation, and more. The activity usually takes around 30 minutes and having 5-10 items is a good place to land. Hang up this team contract in a visible place in the room so that folks are reguarly reminded of the expectations they have set for themselces and their peers. Some of my favorites are to have a rotating note taker and to be as tech-free as possible (phones down, computers closed, etc.).
+
+### The Hack Time Special
+Hack time agendas are a little different that a normal offsite so I wanted to touch on how these agendas may be a little different. Hackweeks are focused more around _doing_ and _producing_ in addition to thoughtful producing. For hackweeks or hack sessions, there is much less structured time and very few sessions since the goal is to get and keep everyone in the flow as much as possible. In addition to schedule changes, hackweeks often have more expectations around deliverables or what tangible pieces will come out of the hack week time.
+
+If you're looking to incorporate hack time in to an offsite, it could  happen in a few ways. You could have a full hackweek, where folks are really heads down, working together, building, and solving issues for the whole time. In this case, projects should be decided upon in advance and every day shoould incorporate some sort of show and tell. OR you can do a 1-day "createathon". A createathon is like a hackweek but what is produced does not necessarily have to be code. For createathons, oor even single day hackdays, the expectations of what will be produced is lower and therefore you can break in to teams and come up with ideas when already at your offsite, as long as folks know to do some thinking in advance.
+
+### Now you have all the pieces of the puzzle. Good luck creating a meaningful, engaging, positive in-person experience.
+
+## You got this!!
