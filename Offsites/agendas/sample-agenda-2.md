@@ -58,24 +58,23 @@ Retro document
 12-1 lunch 
 1-2  retro of offsite and improvements for next offsite
 Team activity: 2:30-6:30
-     Blacksmithing 
 Team Dinner 7:30
 
 
-Ice breaker
+**Ice breaker**
 Balloon tower
 
-Unconf:
-During breakast, write topics on index cards. No slides, no presentations, just discussions.
+**Unconf:**
+During breakfast, write topics on index cards. No slides, no presentations, just discussions.
 Each time slot is 30 minutes. We’ll take these ideas and then anonymously vote and that willl become our schedule.
 
 **for voting… everyone gets 3 dot votes… dotvote on the topics you want to hear about
-(tota sessions: 6 30-minute time slots… 2 sessions for each slot? For 12 slots?)
+(total sessions: 6 30-minute time slots… 2 sessions for each slot? For 12 slots?)
 Write schedule on big paper
 
 
 
-Prioritization:
+**Prioritization framework:**
 Does it align with mission, vision, and values?
 What is the potential impact?
 What is the likely level of effort?
@@ -83,7 +82,7 @@ What does success look like?
 Is it the most important thing to be doing?
 Will we be happy working on it?
 
-Digging in to each issue:
+**Digging in to each issue:**
 
 What is it?
 Why should we do it?
@@ -93,17 +92,17 @@ What assumptions are we making about users?
 How do we measure or determine success?
 
 
-**At the end of wednesday roadmap session do a check in (say statements and give everyone 5-10 seconds to think silently).. 
+**At the end of wednesday roadmap session do a check in (say statements and give everyone 5-10 seconds to think silently)** 
 I agree with our decision and prioritization
 I understand the reasoning behind our prioritization
 I recognize the impact and side effects of these decisions
 
-**At the end of Tuesday:
+**At the end of Tuesday:**
 What am I thinking?
 What am I feeling?
 What do I want in this moment?
 
-framing for roadmap
+**framing for roadmap**
 
 where are we going from here? What does the next 6 months look like (q4 and q1)? The next year? What portion of this is still R&D? What part is diverging from R&D?
 
