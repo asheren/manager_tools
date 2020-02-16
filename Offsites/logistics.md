@@ -5,6 +5,8 @@ Logistics may seem like dull, boring details but the atmosphere you set up for a
 ## Table of Contents
 **Location**
 **Accommodations**
+**Pre-Work**
+
 
 ### Location
 The location of an offsite is a critical detail and probably one of the most difficult decisions. When looking at a distributed team, it may be attractive to hold an offsite where the most people are located, but if you have flexibility it's worthwhile to think about travel hardships, are some team members always traveling and others never traveling, and what sort of environment do you want to have? Taking everyone out of their day-to-day is often helpful for focused, multi-day offsites. If the goal of your offsite is focused around executing work and hacking, you may want to hold your offsite somewhere closer to nature where the surrounding area isn't as distracting but offers quality areas to walk around in order to enable walking brainstorms around problem solving. Or, if it isn't too distracting, you may decide to utilize your office space for a gathering (although this is my least recommended option). Finally, think about the location in terms of team member preparation. To use a US-based example, if most of your team is located in southern Florida, you may not want to hold an offsite in the middle of Minnesota in January because it's possible most of your team will not have the adequate "gear" required to make it a pleasant experience.
@@ -19,19 +21,22 @@ Second, is the space accessible? Third, if you're planning on cooking meals, how
 
 If you can answer all of these questions, than an AirBnb may be a fine direction to go in for an offsite, but if not, a hotel room block is the way to go.
 
-You may read over this list and think, well, this really only affects one person so we'll get an AirBnB for everyone and then this one person will stay at a hotel which will be a better situation for them. My question to you is, will it be a better situation for them? Having a single individual stay at a different location primarily because of their "sinigleness" in any specific category has the high likelihood of making that individual feel alienated or like they are not _really_ a part of the team. On the same note, if there is one person that you think may not feel comfortable with something, do not ask them. In all likelihood they will either will away their concerns or say they have no problem staying elsewhere simply because they don't want to cause a problem or throw a wrench in to the planning of an offsite. Do not put people in this situation. Be proactive and make sure that appropriate accommodations are secured.
+You may read over this list and think, well, this really only affects one person so we'll get an AirBnB for everyone and then this one person will stay at a hotel which will be a better situation for them. My question to you is, will it be a better situation for them? Having a single individual stay at a different location primarily because of their "singleness" in any specific category has the high likelihood of making that individual feel alienated or like they are not _really_ a part of the team. On the same note, if there is one person that you think may not feel comfortable with something, do not ask them. In all likelihood they will either will away their concerns or say they have no problem staying elsewhere simply because they don't want to cause a problem or throw a wrench in to the planning of an offsite. Do not put people in this situation. Be proactive and make sure that appropriate accommodations are secured.
 
 ### Pre-Work
-Besides content-related pre-work to complete, there is a some logistical pre-work required as well.
-- pre-work
-  - survey for allergies, likes, dislikes, etc. accessibility concerns
-  - LINK TO SAMPLE SURVEY
+Besides content-related pre-work to complete, there is a fair bit of logistical pre-work required as well. The more people know about what to expect the more comfortable they will be. The more that people know the needs will be acknowledged and taken care of, the more present they can be. Here are a few helpful items for people to either fill out in forms or enter somewhere:
+- Allergy information and dietary needs
+- Activity preferences
+- Accessibility concerns or accommodations needed
+- Any other considerations needed (for example, pumping breastmilk, childcare, etc.)
+- Transit information (when people are arriving/departing and to/from which airport) to help facilitate rideshares
+
+Keep in mind that you always want to provide individuals with a confidential way to raise concerns or needs for accommodations that they may not want public.
 
 ### Special requests
 Whether you are new to your team or think you know eevryone really well, asking for and accommodating special requests is really important. This may mnean schedule adjustments, service needs, or space requirements, etc. 
 
-- accommodations and special requests
-  - childcare, pumping
+
 - Know your folks
   - fear of flying
   - dislike traveling
