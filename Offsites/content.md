@@ -1,6 +1,6 @@
 # Content
 
-Yes, all of the other stuff is important but the actual content of an offsite is THE MOST IMPORTANT THING. Without goals and anticipated outcomes, offsites may not maximize for the time you have together. This is the case whether your team iis co-located or distributed. You have a finite amount of time to be away from the office, away from your desk, and away from your day-to-day. Use it strategically anf thoughtfully.
+Yes, all of the other stuff is important but the actual content of an offsite is THE MOST IMPORTANT THING. Without goals and anticipated outcomes, offsites may not maximize for the time you have together. This is the case whether your team iis co-located or distributed. You have a finite amount of time to be away from the office, away from your desk, and away from your day-to-day. Use it strategically and thoughtfully.
 
 ## Table of Contents
 **Goals**
@@ -20,7 +20,7 @@ Yes, all of the other stuff is important but the actual content of an offsite is
 ### Goals
 Start with the goal. Why is everyone getting together? What is the purpose? What are the items or tasks you and the team wishes to tackle together?
 
-There are a variety of ways of getting to this goal. You may have something iin mind already. You can also survey your folks and ask them what success would mean for them? Incorporating these ideas in to both the goals as well as the rest of the agenda set for the offsite.
+There are a variety of ways of getting to this goal. You may have something in mind already. You can also survey your folks and ask them what success would mean for them? Incorporate these ideas in to both the goals as well as the rest of the agenda set for the offsite.
 
 Every session should have a goal that contributes to your ultimate goal. It doesn't need to be groundbreaking or earth-shattering, but it should keep the session focused and on track. Additionally, people do better when they know what's expected of them. If a session has a goal, then folks will have a sense of what to include in the discussion versus what may be a tangent. Finally, if you find that the conversation is going off track, having a goal is a helpful and constructive way to refocus the conversation without making anyone feel "bad" or "wrong" for the points they are bringing up.
 
@@ -37,13 +37,13 @@ I hesitate to call this a section in this overall content document because there
 
 Think about session formats as a vehicle for facilitating the overall flow of your day's agenda. Often, individuals cannot sit for multiple hours or long periods of time without mixing it up a bit. A day should balance more frontal sessions, interactive sessions, and different timing options. 
 
-One common format is a brainstorm. Brainstorms often include some individual post-it implementation, small group discussions, and large group conversations. Oftentimes brainstorms go hand-in-hand with facilitated conversations. If you're brainstorming a lot of ideas and then reviewing each one or talking about a larger topic, it is helpful to write out a framework, or questions that should be discussed for each idea. In a facilitated conversation, you can also establish ground rules around how frequently individuals speak or for how long. Other than a brainstorm, one example of a facilitated conversation is establishing a [group contract]().
+One common format is a brainstorm. Brainstorms often include some individual post-it implementation, small group discussions, and large group conversations. Oftentimes brainstorms go hand-in-hand with facilitated conversations. If you're brainstorming a lot of ideas and then reviewing each one or talking about a larger topic, it is helpful to write out a framework, or questions that should be discussed for each idea. In a facilitated conversation, you can also establish ground rules around how frequently individuals speak or for how long. Other than a brainstorm, one example of a facilitated conversation is establishing a group contract.
 
 Another common format is to include lightning talks. Lightning talks are short (5 minute or less) talks about a topic. This can be something the whole group needs to learn or it can be a great way to showcase something one individual is passionate about that they would like to share with others. Lightning talks are a great way to break up the day and encourage participation from others as well.
 
 Finally, offsites often include some sort of learning session where you are interactively learning about a topic. These sessions should be engaging and interactive. Examples include learning about design thinking, or how to develop user personas.
 
-For a bit more reading on this topic, check out [this blog post series]() on turning regular sessions in to interactive, engaging workshops. 
+For a bit more reading on this topic, check out [this blog post series](http://daydreamsinruby.com/workshops-for-engineers-part-1/) on turning regular sessions in to interactive, engaging workshops. 
 
 ### Facilitation 101
 Facilitation is an art and a skill. It often does not come naturally, but that's ok. As you do more offsites (or even run more meetings), facilitation will become easier. Here are a few 101 tips:
