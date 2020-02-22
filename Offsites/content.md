@@ -3,17 +3,17 @@
 Yes, all of the other stuff is important but the actual content of an offsite is THE MOST IMPORTANT THING. Without goals and anticipated outcomes, offsites may not maximize for the time you have together. This is the case whether your team iis co-located or distributed. You have a finite amount of time to be away from the office, away from your desk, and away from your day-to-day. Use it strategically and thoughtfully.
 
 ## Table of Contents
-**Goals**
-**Deliverables**
-**Session Leaders**
-**Facilitation Formats**
-**Facilitation 101**
-**Agenda Flow**
-**Bonding**
-**Unstructured Time**
-**Team Contract**
-**Sample Agendas**
-**The Hack Time Special**
+**Goals**  
+**Deliverables**  
+**Session Leaders**  
+**Facilitation Formats**  
+**Facilitation 101**  
+**Agenda Flow**  
+**Bonding**  
+**Unstructured Time**  
+**Team Contract**  
+**Sample Agendas**  
+**The Hack Time Special**  
 
 
 
