@@ -19,9 +19,9 @@ Here's what I'm working on:
 - Vision planning
 - Team quarterly goal planning
 - Performance reviews questions to think about and doing write ups
-- Offsites
+- [Offsites](https://github.com/asheren/manager_tools/tree/master/Offsites)
 - Transitioning people back after parental leave
-- remote tools
+- remote teams
   - video conferencing
   - chat
   - whiteboarding
@@ -30,6 +30,7 @@ Here's what I'm working on:
   - pointers
   - different kinds of meetings
   - sample agendas
+- onboarding
 
 
 Check back periodically to see what I've added.
