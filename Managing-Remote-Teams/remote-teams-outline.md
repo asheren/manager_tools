@@ -9,7 +9,7 @@ Managing remote teams outline
   - will go more in to meeting facilitation in a different section
 - importance of 1:1s
 - Tools doc
-- tools broken up in to sections
+- tools broken up in to sections: communication, collaboration, organization, fun
   - video conferencing
   - chat
   - whiteboarding
