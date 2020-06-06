@@ -1,0 +1,5 @@
+- All about meetings doc
+  - meeting cadance
+  - types of meetings
+    - will go more in to meeting facilitation in a different section on meeting planning and facilitation
+  - importance of 1:1s (more in the 1:1s folder)

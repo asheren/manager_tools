@@ -28,11 +28,12 @@ Here's what I'm working on:
   - chat
   - whiteboarding
   - retros/meeting notes
-- running regular meetings
+- running regular meetings/meeting facilitation
   - pointers
   - different kinds of meetings
   - sample agendas
 - onboarding
+- remote offsites (add a doc to the offsites section)
 
 
 Check back periodically to see what I've added.
