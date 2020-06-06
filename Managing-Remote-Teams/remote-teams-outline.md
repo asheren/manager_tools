@@ -4,16 +4,16 @@ Managing remote teams outline
     - body language, ability to follow up, etc.
   - benefits of managing remotely 
 - All about meetings doc
-- meeting cadance
-- types of meetings
-  - will go more in to meeting facilitation in a different section
-- importance of 1:1s
+  - meeting cadance
+  - types of meetings
+    - will go more in to meeting facilitation in a different section
+  - importance of 1:1s
 - Tools doc
-- tools broken up in to sections: communication, collaboration, organization, fun
-  - video conferencing
-  - chat
-  - whiteboarding
-  - retros/meeting notes
+  - tools broken up in to sections: communication, collaboration, organization, fun
+    - video conferencing
+    - chat
+    - whiteboarding
+    - retros/meeting notes
 - Managing yourself and others doc
   - notifications
   - setting expectations: need to lean in to trust and set up the guardrails appropriately
