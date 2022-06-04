@@ -30,6 +30,9 @@ Here's what I'm working on:
   - pointers
   - different kinds of meetings
   - sample agendas
+- onboarding
+- remote offsites (add a doc to the offsites section)
+- async comms best practices: structures to set up, how to get people to fill out the thing, setting deadlines and timeframes, when to make it a meeting (link back to meeting section)
 
 
 Check back periodically to see what I've added.
